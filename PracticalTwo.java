@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class PracticalTwo {
-    public static void main(String args[]){
+    public static void main(String[] args){
         System.out.print("Enter Number One: ");
         Scanner numOneInput = new Scanner(System.in);
 

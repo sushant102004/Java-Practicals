@@ -1,5 +1,5 @@
 class AddMatrix {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int[][] matrixOne = {{1, 2}, {3, 4}, {5, 6}};
         int[][] matrixTwo = {{1, 2}, {3, 4}, {5, 6}};
 
